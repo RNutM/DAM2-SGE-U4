@@ -6,7 +6,7 @@ Ejercicios Unidad 4
 
 * Proyectos 2019-2020
 *******************************************************************
-* Abreviaturas de las carpetas contenidas en los repositorios DAM1:
+* Abreviaturas de las carpetas contenidas en los repositorios DAM2:
 
 * AD - Acceso a Datos
 * DI - Desarrollo de Interfaces
